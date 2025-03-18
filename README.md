@@ -1,19 +1,19 @@
 # MIST-4610-Group-5
 
-#Team Name:
+# Team Name:
 Group 5
-#Team Members
+# Team Members
 1.
 2.
 3.
 4.
 5.
-#Problem Description:
+# Problem Description:
 xxxxxxxxxxxxxxxx
-#Data Model
+# Data Model
 Explanation:
 xxxxxxx
 Visual:
 xxxxxx
-#Data Dictionary
-#Queries
+# Data Dictionary
+# Queries
