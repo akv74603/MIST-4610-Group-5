@@ -7,7 +7,7 @@
 2. Chase Ratelle
 3. Isaac Self
 4. Alex Vuong
-5. Deven Yadav @dmy41514
+5. Deven Yadav
 # Problem Description:
 
 # Data Model
