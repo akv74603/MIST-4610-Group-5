@@ -3,11 +3,11 @@
 # Team Name:
 Group 5
 # Team Members
-1.
-2.
-3.
-4.
-5.
+1. Jeremiah Doherty
+2. Chase Ratelle
+3. Isaac Self
+4. Alex Vuong
+5. Deven Yadav
 # Problem Description:
 
 # Data Model
