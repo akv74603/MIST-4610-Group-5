@@ -28,5 +28,6 @@ Visual:
    <img width="1150" alt="Screenshot 2025-03-18 at 8 13 05 PM" src="https://github.com/user-attachments/assets/d7347aa8-6328-4a28-84ab-ce7d62c1420b" />
 4. List the game date, game score for the home team, and stadium where the game score for the home team was more than 30 points. Fans can sometimes be curious as to how high the Falcons and other teams have scored in a game, and in the NFL, scoring 30 is a big feat. With this query, fans and NFL executives can see who has scoored over 30 points and the frequency of that.
    <img width="1154" alt="Screenshot 2025-03-18 at 8 18 10 PM" src="https://github.com/user-attachments/assets/529c616c-2438-40ac-9469-03921b07679a" />
+5. List the full name and total rushing yards of players who have more than 1000 rushing yards over many games. Management working for the Atlanta Falcons could use this query for a few reasons. They can identify the top rushers on the team and assess individual performance for rostering, scouting, and recruiting purposes. This information can also be used to cater to specific game plans and strategies as well as to offer contracts to high performing players. 
+<img width="773" alt="Screenshot 2025-03-18 at 4 57 21 PM" src="https://github.com/user-attachments/assets/2fcac07e-6a42-453b-82e8-3fa6f7d57f87" />
 
-   
