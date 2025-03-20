@@ -174,3 +174,7 @@ Visual:
 5. List the full name and total rushing yards of players who have more than 1000 rushing yards over many games. Management working for the Atlanta Falcons could use this query for a few reasons. They can identify the top rushers on the team and assess individual performance for rostering, scouting, and recruiting purposes. This information can also be used to cater to specific game plans and strategies as well as to offer contracts to high performing players. 
 <img width="773" alt="Screenshot 2025-03-18 at 4 57 21 PM" src="https://github.com/user-attachments/assets/2fcac07e-6a42-453b-82e8-3fa6f7d57f87" />
 
+# Database Information
+Name of the database: al_Group_21484_G5
+
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
