@@ -80,7 +80,7 @@ Visual:
 | **Column Name**   | **Description**                                            | **Data Type** | **Size** | **Format** | **Key?** |
 | ----------------- | ---------------------------------------------------------- | ------------- | -------- | ---------- | -------- |
 | Game\_ID          | Primary key, unique sequential number identifying the game | INT           | N/A      |            | PK       |
-| Game\_date        | Date of the game                                           | VARCHAR       | 45       |            |          |
+| Game\_date        | Date of the game                                           | VARCHAR       | 45       | mm/dd/yyyy |          |
 | Away\_team        | Name of the away team                                      | VARCHAR       | 45       |            |          |
 | Stadium           | Name of the stadium                                        | VARCHAR       | 45       |            |          |
 | Score\_home\_team | Home team score                                            | INT           | N/A      |            |          |
@@ -96,7 +96,7 @@ Visual:
 | Jersey\_number        | Player’s jersey number                                       | INT           | N/A      |            |          |
 | Height                | Height of the player                                         | VARCHAR       | 45       |            |          |
 | Weight                | Weight of the player                                         | VARCHAR       | 45       |            |          |
-| Date\_of\_birth       | Date of birth of the player                                  | DATE          | N/A      |            |          |
+| Date\_of\_birth       | Date of birth of the player                                  | DATE          | N/A      | mm/dd/yyyy |          |
 | Nationality           | Nationality of the player                                    | VARCHAR       | 45       |            |          |
 | University            | University attended by the player                            | VARCHAR       | 45       |            |          |
 | Contract\_start\_date | Player’s contract start date                                 | VARCHAR       | 45       |            |          |
@@ -146,8 +146,8 @@ Visual:
 | --------------- | ----------------------------------------------------------- | ------------- | -------- | ---------- | -------- |
 | CD\_ID          | Primary key, unique sequential number for coaching duration | INT           | N/A      |            | PK       |
 | Full\_name      | Full name of the coach                                      | VARCHAR       | 45       |            |          |
-| Start\_date     | Start date of the coaching duration                         | VARCHAR       | 45       |            |          |
-| End\_date       | End date of the coaching duration                           | VARCHAR       | 45       |            |          |
+| Start\_date     | Start date of the coaching duration                         | VARCHAR       | 45       | mm/dd/yyyy |          |
+| End\_date       | End date of the coaching duration                           | VARCHAR       | 45       | mm/dd/yyyy |          |
 | Coach\_ID       | Foreign key, reference to Coach                             | INT           | N/A      |            | FK       |
 | Season\_ID      | Foreign key, reference to Season                            | INT           | N/A      |            | FK       |
 
@@ -158,8 +158,8 @@ Visual:
 | Coach\_ID           | Primary key, unique sequential number identifying the coach | INT           | N/A      |            | PK       |
 | Full\_name          | Full name of the coach                                      | VARCHAR       | 45       |            |          |
 | Role                | Role of the coach                                           | VARCHAR       | 45       |            |          |
-| Hire\_date          | Hire date of the coach                                      | VARCHAR       | 45       |            |          |
-| Contract\_end\_date | Contract end date of the coach                              | VARCHAR       | 45       |            |          |
+| Hire\_date          | Hire date of the coach                                      | VARCHAR       | 45       | mm/dd/yyyy |          |
+| Contract\_end\_date | Contract end date of the coach                              | VARCHAR       | 45       | mm/dd/yyyy |          |
 | Salary              | Salary of the coach                                         | VARCHAR       | 45       |            |          |
 
 # Queries
