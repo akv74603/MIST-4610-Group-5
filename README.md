@@ -6,7 +6,7 @@
 1. Jeremiah Doherty: https://github.com/jeremiahd72
 2. Chase Ratelle
 3. Isaac Self
-4. Alex Vuong
+4. Alex Vuong: https://github.com/akv74603
 5. Deven Yadav: https://github.com/dmy41514
 # Problem Description:
 
