@@ -178,7 +178,8 @@ Visual:
 6.  List the scores of the team named "Kansas City Chiefs". Then calculate the average home score for these games.
 Retrieve only the games where the home score is greater than the average home score.
 Sort the results by home score in descending order.
-<img width="1440" alt="Screenshot 2025-03-20 at 4 08 46 PM" src="https://github.com/user-attachments/assets/87ea6155-ee6a-44af-8647-c83047b3022d" />
+<img width="832" alt="Screenshot 2025-03-20 at 4 17 51 PM" src="https://github.com/user-attachments/assets/033f6563-6694-477b-9b0c-0aefbe294e39" />
+
 
 # Database Information
 Name of the database: al_Group_21484_G5
