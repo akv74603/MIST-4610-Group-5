@@ -4,11 +4,13 @@
 21484 Group 5
 # Team Members
 1. Jeremiah Doherty: https://github.com/jeremiahd72
-2. Chase Ratelle
+2. Chase Ratelle: https://github.com/Bubb-Rattle
 3. Isaac Self
 4. Alex Vuong: https://github.com/akv74603
 5. Deven Yadav: https://github.com/dmy41514
 # Problem Description:
+
+Atlanta Falcons football has been a disappointment for many years in a row. With lackluster rosters and poor coaching, the Falcons have been losing many fans as the attendance for games has gone down every year since they made the super bowl back in 2017. But this past offseason, the falcons drafted a rookie QB named Michael Penix Jr and in the last few games of the past regular season, he showed a lot of promise with his play and brought the excitement back to Atlanta Falcons football. With the excitement coming back, the fans and attendance for games next season are expected to increase, and as a result, a select group of students from the MIST4610 class at UGA have been selected to gather and organize important information about the Atlanta Falcons Football Organization for the coming season.
 
 # Data Model
 
