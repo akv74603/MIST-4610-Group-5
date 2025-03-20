@@ -182,5 +182,3 @@ Sort the results by home score in descending order.
 
 # Database Information
 Name of the database: al_Group_21484_G5
-
-Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
