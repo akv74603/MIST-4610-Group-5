@@ -162,6 +162,8 @@ Visual:
 | Hire\_date          | Hire date of the coach                                      | VARCHAR       | 45       | mm/dd/yyyy |          |
 | Contract\_end\_date | Contract end date of the coach                              | VARCHAR       | 45       | mm/dd/yyyy |          |
 | Salary              | Salary of the coach                                         | VARCHAR       | 45       |            |          |
+# Query Matrix
+<img width="642" alt="Screenshot 2025-03-20 at 17 16 33" src="https://github.com/user-attachments/assets/36ae40f2-9ff9-47c8-bc97-11082e25f0dc" />
 
 # Queries
 1.  List the full name, university, and position of a player where the position of the player is QB. This query would be important because fans of the team or NFL owners and executives can see the background and some useful information about the player/QB.
