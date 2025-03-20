@@ -3,7 +3,7 @@
 # Team Name:
 21484 Group 5
 # Team Members
-1. Jeremiah Doherty
+1. Jeremiah Doherty: https://github.com/jeremiahd72
 2. Chase Ratelle
 3. Isaac Self
 4. Alex Vuong
