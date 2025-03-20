@@ -13,9 +13,18 @@
 # Data Model
 
 Explanation:
+Our data model represents a structured database designed for the Atlanta Falcons Football Team, capturing key aspects of fans, players, coaches, games, seasons, merchandise, and related transactions. The Fan entity contains attributes such as Fan_ID, Full_name, Email, and Favorite_player, which are used to track individual fans, their contact details, and their favorite player. The Ticket entity associates with fans via Fan_ID and contains attributes like Ticket_ID, Number_sold, Price, and Gameday_ID, linking each ticket purchase to a specific game.
 
+The Gameday entity records game details with attributes including Game_ID, Game_date, Away_team, Stadium, Score_home_team, and Score_away_team. These attributes provide full coverage of individual game events, with scores and logistics. Player performance during each game is tracked by the Player_Statistics entity, which captures data such as Passing_yards, Rushing_yards, Touchdowns, and Fumbles. It links directly to Player_ID and Gameday_ID, allowing performance to be measured for each player per game.
+
+Player details are stored in the Player entity with attributes like Player_ID, Full_name, Position, Jersey_number, physical attributes (Height, Weight), Date_of_birth, Nationality, and contractual details such as Contract_start_date, Contract_end_date, and Salary. Complementing this, Season_Stats aggregates player performance at the season level, tracking metrics like Total_passing_yards, Total_rushing_yards, and Total_touchdowns for each player, linking them to the Season entity which defines the seasonal context with Season_ID, Season_wins, and Season_losses.
+
+Coaching details are handled by the Coach entity, which captures each coach's identity and employment information, including Coach_ID, Full_name, Role, Hire_date, Contract_end_date, and Salary. The Coaching_Duration entity links coaches to specific seasons using Season_ID and includes Start_date and End_date fields, enabling analysis of coaching impact over different seasons. This allows for both longitudinal tracking and performance correlation with seasonal outcomes.
+
+Lastly, the financial side of the football organization is represented through Merchandise, Sale, and Lineitem entities. Merchandise details (Merchandise_ID, Category, Price, Stock_quantity) are tied to Sales, which log transactions via Sale_ID, Sale_date, Sale_price, and Fan_ID. Each sale can include multiple line items, recorded in the Lineitem entity by Lineitem_ID, linking to both Sale_ID and Merchandise_ID. This setup ensures full visibility into fan purchases, enabling merchandising strategy and inventory control to be optimized.
 
 Visual:
+![Data_Model_Project_One](https://github.com/user-attachments/assets/ac014e37-d411-4bcd-9a8e-d388c9141b9f)
 
 # Data Dictionary
 
