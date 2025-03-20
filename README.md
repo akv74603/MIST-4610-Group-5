@@ -5,7 +5,7 @@
 # Team Members
 1. Jeremiah Doherty: https://github.com/jeremiahd72
 2. Chase Ratelle: https://github.com/Bubb-Rattle
-3. Isaac Self
+3. Isaac Self: https://github.com/mrslimeballl
 4. Alex Vuong: https://github.com/akv74603
 5. Deven Yadav: https://github.com/dmy41514
 # Problem Description:
