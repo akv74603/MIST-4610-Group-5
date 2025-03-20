@@ -15,6 +15,7 @@ Atlanta Falcons football has been a disappointment for many years in a row. With
 # Data Model
 
 Explanation:
+
 Our data model represents a structured database designed for the Atlanta Falcons Football Team, capturing key aspects of fans, players, coaches, games, seasons, merchandise, and related transactions. The Fan entity contains attributes such as Fan_ID, Full_name, Email, and Favorite_player, which are used to track individual fans, their contact details, and their favorite player. The Ticket entity associates with fans via Fan_ID and contains attributes like Ticket_ID, Number_sold, Price, and Gameday_ID, linking each ticket purchase to a specific game.
 
 The Gameday entity records game details with attributes including Game_ID, Game_date, Away_team, Stadium, Score_home_team, and Score_away_team. These attributes provide full coverage of individual game events, with scores and logistics. Player performance during each game is tracked by the Player_Statistics entity, which captures data such as Passing_yards, Rushing_yards, Touchdowns, and Fumbles. It links directly to Player_ID and Gameday_ID, allowing performance to be measured for each player per game.
