@@ -173,20 +173,19 @@ Visual:
 4. List the game date, game score for the home team, and stadium where the game score for the home team was more than 30 points. Fans can sometimes be curious as to how high the Falcons and other teams have scored in a game, and in the NFL, scoring 30 is a big feat. With this query, fans and NFL executives can see who has scoored over 30 points and the frequency of that.
    <img width="1154" alt="Screenshot 2025-03-18 at 8 18 10 PM" src="https://github.com/user-attachments/assets/529c616c-2438-40ac-9469-03921b07679a" />
 5. List the full name and total rushing yards of players who have more than 1000 rushing yards over many games. Management working for the Atlanta Falcons could use this query for a few reasons. They can identify the top rushers on the team and assess individual performance for rostering, scouting, and recruiting purposes. This information can also be used to cater to specific game plans and strategies as well as to offer contracts to high performing players. 
-<img width="773" alt="Screenshot 2025-03-18 at 4 57 21 PM" src="https://github.com/user-attachments/assets/2fcac07e-6a42-453b-82e8-3fa6f7d57f87" />
+   <img width="773" alt="Screenshot 2025-03-18 at 4 57 21 PM" src="https://github.com/user-attachments/assets/2fcac07e-6a42-453b-82e8-3fa6f7d57f87" />
 6. This query finds fans who have bought more than 10,000 tickets. It helps the Atlanta Falcons identify big-ticket buyers, such as loyal season ticket holders, corporate clients, or potential resellers.
-<img width="870" alt="Screenshot 2025-03-20 at 16 33 55" src="https://github.com/user-attachments/assets/09f326ed-e0e3-49ee-998f-d0421a406a71" />
+   <img width="870" alt="Screenshot 2025-03-20 at 16 33 55" src="https://github.com/user-attachments/assets/09f326ed-e0e3-49ee-998f-d0421a406a71" />
 7. This query calculates the total number of tickets sold for each game and ranks them from highest to lowest. It helps the Atlanta Falcons track which games attract the most fans. By understanding ticket demand, the team can identify high-selling games that may justify premium pricing and low-selling games that might need additional marketing efforts.
-<img width="858" alt="Screenshot 2025-03-20 at 16 44 46" src="https://github.com/user-attachments/assets/fcf02b22-afe6-40c0-a077-4cb2ecb669f4" />
+   <img width="858" alt="Screenshot 2025-03-20 at 16 44 46" src="https://github.com/user-attachments/assets/fcf02b22-afe6-40c0-a077-4cb2ecb669f4" />
 8. This query identifies players from universities with "State," "Tech," or "A&M" in their name and ranks them by total touchdowns scored. It helps the Atlanta Falcons team analyze which college programs consistently produce top-performing players, aiding in draft and recruitment decisions.
-<img width="966" alt="Screenshot 2025-03-20 at 16 50 53" src="https://github.com/user-attachments/assets/8b302294-748f-47b4-a4b7-948696522b6d" />
+   <img width="966" alt="Screenshot 2025-03-20 at 16 50 53" src="https://github.com/user-attachments/assets/8b302294-748f-47b4-a4b7-948696522b6d" />
 9. This query finds players who have scored more touchdowns than the average. It helps the Atlanta Falcons coaching staff identify top-performing players who are exceeding expectations. By comparing individual player stats to the average, the team can evaluate player effectiveness and make data-driven decisions.
    <img width="659" alt="Screenshot 2025-03-20 at 16 55 21" src="https://github.com/user-attachments/assets/77c08c15-1f46-449b-af42-1c07626d0545" />
 10.  List the scores of the team named "Kansas City Chiefs". Then calculate the average home score for these games.
 Retrieve only the games where the home score is greater than the average home score.
 Sort the results by home score in descending order. This query can be helpful for management for querying team scores in the past and for potentially calculating future predictions of upcoming games.
-
-<img width="832" alt="Screenshot 2025-03-20 at 4 17 51 PM" src="https://github.com/user-attachments/assets/033f6563-6694-477b-9b0c-0aefbe294e39" />
+   <img width="832" alt="Screenshot 2025-03-20 at 4 17 51 PM" src="https://github.com/user-attachments/assets/033f6563-6694-477b-9b0c-0aefbe294e39" />
 
 
 
